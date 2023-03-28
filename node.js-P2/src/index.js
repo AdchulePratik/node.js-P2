@@ -1,4 +1,4 @@
-const add = require('./maths');
-const add = require ('./abc');
+const add = require ('./maths');
+const {a,b} = require ('./abc');
 
 console.log(add(a,b));
