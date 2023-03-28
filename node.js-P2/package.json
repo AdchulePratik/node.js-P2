@@ -1,10 +1,10 @@
 {
   "name": "node.js-p2",
   "version": "1.0.0",
-  "description": "this is area ",
-  "main": "index.js",
+  "description": "this is area is for description",
+  "main": "src/index.js",
   "scripts": {
-    "start": "index.js"
+    "start": "node src/index.js"
   },
   "author": "",
   "license": "ISC",
